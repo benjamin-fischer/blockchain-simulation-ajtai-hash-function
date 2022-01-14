@@ -34,7 +34,7 @@ The blockchain simulation is composed of the following five Java classes.
    The Ajtai hash function is then defined as
    
    <p align="center">
-      <img src="https://github.com/benjamin-fischer/blockchain-simulation-ajtai-hash-function/blob/master/Ajtai_Hash_Function.PNG" width="410" height="100">
+      <img src="https://github.com/benjamin-fischer/blockchain-simulation-ajtai-hash-function/blob/main/Ajtai_Hash_Function.PNG" width="410" height="100">
    </p>
    
    where the (*n* x *m*) binary matrix *A* is the *Ajtai key*.
@@ -93,7 +93,7 @@ The blockchain simulation is composed of the following five Java classes.
 
 Below is an output example from the execution of the *Main* class. As we can observe, *Miner N°4* obtained the correct hash value (starting with four 0's as *difficulty* = 4) required for the proof of work, before its three other concurrents. As a result, *Miner N°4* received a reward of 1 bitcoin.
 
-![image](https://github.com/benjamin-fischer/blockchain-simulation-ajtai-hash-function/blob/master/Output.PNG)
+![image](https://github.com/benjamin-fischer/blockchain-simulation-ajtai-hash-function/blob/main/Output.PNG)
 
 ## Support
 
